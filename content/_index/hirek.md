@@ -31,6 +31,29 @@ details > p {
 </style>
 
 * <details>
+    <summary>2026. augusztus 19-26. között rendelőnk zárva</summary>
+    <p>Tisztelt állattulajdonosok!</p>
+    <p>A nyári szabadság idején a rendelés szünetel. Sürgős esetben az állatkórház elérhető a +3636312460 telefonszámon.</p>
+    <p>Megértésüket köszönjük: dr. Daróczi Lajos és dr. Daróczi Vera</p>
+</details>
+
+
+* <details>
+    <summary>2025. június 17: Kennelköhögés elleni vakcina</summary>
+    <p>Tisztelt állattulajdonosok!</p>
+    <p>A kennelköhögés elleni vakcina elérhetővé vált, holnap délutántól tudjuk beadni. Remélhetően zökkenőmentesebb szállítással kapjuk az utánpótlást.</p>
+    <p>Megértésüket, eddigi türelmüket köszönjük: Daróczi Lajos</p>
+</details>
+
+
+* <details>
+    <summary>2024. május 22: Kennelköhögés elleni oltás kutyáknak</summary>
+    <p>Tisztelt kutyatulajdonosok!</p>
+    <p>Jött kennelköhögés elleni szájon át adandó vakcina /Versifel BB oral/ -- ami jó ideje hiánycikk volt. Aki érdeklődött/jelentkezett oltásra, az mostantól megkaphatja a vakcinát.</p>
+    <p>Köszönettel:  Daróczi Lajos</p>
+</details>
+
+* <details>
     <summary>2024. január 31: Alap/3-as kombi oltás macskáknak</summary>
     <p>Tisztelt Macskatulajdonosok!</p>
     <p>Akikkel december óta halasztjuk az alap/3-as kombi oltást,mert a
