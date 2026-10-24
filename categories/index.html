@@ -676,7 +676,26 @@ details > p {
 
 
   <div class="row justify-content-center">
-      <div class="w-100"><script src="https://embed.ycb.me" async="true" data-domain="daroczil" data-content="all"></script></div>
+      <div class="w-100"><div style="width: 100%;" id="inline-embed-container">
+    <!-- NeetoCal widget will be added here -->
+  </div>
+  <script>window.neetoCal = window.neetoCal || { embed: function(){(neetoCal.q=neetoCal.q||[]).push(arguments)} };</script>
+  <script async
+    src="https://cdn.neetocal.com/javascript/embed.js">
+  </script>
+  <script>
+    neetoCal.embed({
+      type: "inline",
+      id: "4a39cef2-f292-4f9e-854f-75c8a550f562",
+      organization: "daroczidr",
+      elementSelector: "#inline-embed-container",
+      styles: "height: 100%; width: 100%;", 
+      queryParams: { "dynamicHeight": true, "lang": "hu" },
+      slug: "vizsgalat",
+      isSidebarAndCoverImgHidden: "false",
+      shouldForwardQueryParams: "false"
+    });
+  </script></div>
   </div>
     </div>
     </div>
