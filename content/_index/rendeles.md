@@ -13,4 +13,4 @@ title = "Rendelési idő"
 
 A rendelő <b>előre egyeztetett időpontokban</b> fogad betegeket. Az időpont egyeztetés elindításához keressen minket telefonon, vagy vegye igénybe az alábbi naptárat. Kérjük, hogy vegye figyelembe, hogy időpont kérésére legkésőbb az adott időpont előtt 4 órával van lehetőség.
 
-Az időpontot annak kezdete előtt 12 óráig tudja módosítani vagy lemondani. Amennyiben a lefoglalt időpontban nem jelenik meg, egy vizsgálati díj kerül felszámolásra.
+Az időpontot annak kezdete előtt 12 órával tudja módosítani vagy lemondani. Amennyiben a lefoglalt időpontban nem jelenik meg, egy vizsgálati díj kerül felszámolásra.
